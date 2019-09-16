@@ -19,15 +19,18 @@ namespace _08_Ranking
                     break;
                 }
                 var commandArray = command.Split(':');
-                if (commandArray.Length != 2)
+                                if (commandArray.Length != 2)
                 {
-                    break;
+                    continue;
                 }
-                var contestName = commandArray[0];
-                var contestPassword = commandArray[1];
-                if (!contestPass.ContainsKey(contestName))
+                else
                 {
-                    contestPass.Add(contestName, contestPassword);
+                    var contestName = commandArray[0];
+                    var contestPassword = commandArray[1];
+                    if (!contestPass.ContainsKey(contestName))
+                    {
+                        contestPass.Add(contestName, contestPassword);
+                    }
                 }
             }
             while (true)
