@@ -1,0 +1,24 @@
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.deps.json
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.runtimeconfig.json
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.runtimeconfig.dev.json
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.dll
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.pdb
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.csprojAssemblyReference.cache
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.csproj.CoreCompileInputs.cache
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.AssemblyInfoInputs.cache
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.AssemblyInfo.cs
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.dll
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.pdb
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.deps.json
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.runtimeconfig.json
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.runtimeconfig.dev.json
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.dll
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\01_Odd_Lines.pdb
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.csprojAssemblyReference.cache
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.csproj.CoreCompileInputs.cache
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.AssemblyInfoInputs.cache
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.AssemblyInfo.cs
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.dll
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\obj\Debug\netcoreapp2.1\01_Odd_Lines.pdb
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\Program.cs
+D:\Storage\Softwere_engenering_degree\C#_Advanced\Streams_files_and_directories-Lab\01_Odd_Lines\bin\Debug\netcoreapp2.1\01. Odd Lines\Input.txt
